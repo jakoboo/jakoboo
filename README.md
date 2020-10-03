@@ -5,7 +5,8 @@
 ### <div align="center">I'm <a href="https://bblk.pl/">Jakub Bąbelek</a>, student and a Full Stack Developer from Poland.</div>
 
 <div align="center">
-  <b>Some facts:</b> 🚀 I study Physics, 🎶 I love music, Spaces over tabs 🤷‍♂️
+  <b>Some facts:</b>
+  <p>🚀 I study Physics • 🎶 I love music • Spaces over tabs 🤷‍♂️</p>
 </div>
 
 <br>
