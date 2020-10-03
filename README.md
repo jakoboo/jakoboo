@@ -5,10 +5,12 @@
 ### <div align="center">I'm <a href="https://bblk.pl/">Jakub Bąbelek</a>, student and a Full Stack Developer from Poland.</div>
 <div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=jakoboo.jakoboo" align="center"></div>
 
-**Some facts**
-- 🚀 I study Physics
-- 🎶 I love music
-- Spaces over tabs 🤷‍♂️
+<div align="center">
+  <b>Some facts</b>
+  - 🚀 I study Physics
+  - 🎶 I love music
+  - Spaces over tabs 🤷‍♂️
+</div>
 
 <div align="center">
   <a href="https://bblk.pl/"><img src="https://github-readme-stats.vercel.app/api?username=jakoboo&show_icons=true&icon_color=ff2050&text_color=565656&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" align="center"></a>
