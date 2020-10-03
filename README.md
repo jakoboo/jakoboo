@@ -4,8 +4,6 @@
 
 ### <div align="center">I'm <a href="https://bblk.pl/">Jakub Bąbelek</a>, student and a Full Stack Developer from Poland.</div>
 
-<br>
-
 <div align="center">
   <b>Some facts:</b> 🚀 I study Physics, 🎶 I love music, Spaces over tabs 🤷‍♂️
 </div>
