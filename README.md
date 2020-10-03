@@ -6,11 +6,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=jakoboo.jakoboo" align="center" />
   <br />
   <br />
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=jakoboo&show_icons=true&icon_color=ff2050&text_color=565656&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" />
-  </p>
-  <br />
-  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=jakoboo&show_icons=true&icon_color=ff2050&text_color=565656&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" align="center" />
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=11131620181&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=11131620181&cover_image=false" />
   </a>
