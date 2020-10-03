@@ -1,4 +1,4 @@
-[Website](https://bblk.pl/) • [E-Mail](mailto:jakub@bblk.pl)
+[Website](https://bblk.pl/) • [Twitter](https://twitter.com/jbbabelek) • [E-Mail](mailto:jakub@bblk.pl)
 
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
