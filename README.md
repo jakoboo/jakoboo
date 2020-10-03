@@ -6,16 +6,11 @@
 <div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=jakoboo.jakoboo" align="center"></div>
 
 <br>
-<br>
 
 <div align="center">
-  <b>Some facts</b>
-  <p>🚀 I study Physics</p>
-  <p>🎶 I love music</p>
-  <p>Spaces over tabs 🤷‍♂️</p>
+  <b>Some facts:</b> 🚀 I study Physics, 🎶 I love music, Spaces over tabs 🤷‍♂️
 </div>
 
-<br>
 <br>
 
 <div align="center">
