@@ -2,12 +2,10 @@
 
 <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jakoboo.jakoboo" align="center" />
-  <br />
-  <br />
   <br />
   <br />
   <p>I'm <a href="https://bblk.pl/">Jakub Bąbelek</a>, student and a Full Stack Developer from Poland.</p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jakoboo.jakoboo" align="center" />
   <br />
   <br />
   <p>
