@@ -6,7 +6,7 @@
 
 <div align="center">
   <b>Some facts:</b>
-  <p>🚀 I study Physics • 🎶 I love music • Spaces over tabs 🤷‍♂️</p>
+  <p>🚀 Physics major • 🎶 Love music • Spaces over tabs 🤷‍♂️</p>
 </div>
 
 <br>
