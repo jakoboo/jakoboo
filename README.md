@@ -10,11 +10,9 @@
 
 <div align="center">
   <b>Some facts</b>
-  <ul>
-    <li>🚀 I study Physics</li>
-    <li>🎶 I love music</li>
-    <li>Spaces over tabs 🤷‍♂️</li>
-  </ul>
+  <p>🚀 I study Physics</p>
+  <p>🎶 I love music</p>
+  <p>Spaces over tabs 🤷‍♂️</p>
 </div>
 
 <br>
