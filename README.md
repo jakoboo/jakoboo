@@ -2,10 +2,10 @@
 
 <a href="https://bblk.pl/"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"></a>
 
-### <div align="center">I'm <a href="https://bblk.pl/">Jakub Bąbelek</a>, student and a Full Stack Developer from Poland.</div>
-<img src="https://visitor-badge.glitch.me/badge?page_id=jakoboo.jakoboo" align="center" style="width: 100%">
+### <div align="center">I'm <a href="https://bblk.pl/">Jakub Bąbelek</a>, student and a Full Stack Developer from Poland.
+<img src="https://visitor-badge.glitch.me/badge?page_id=jakoboo.jakoboo" align="center"></div>
 
-## <div align="center">Some facts</div>
+## Some facts
 - 🚀 I study Physics
 - 🎶 I love music
 - Spaces over tabs 🤷‍♂️
