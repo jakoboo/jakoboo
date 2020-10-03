@@ -1,7 +1,7 @@
 [Website](https://bblk.pl/) • [E-Mail](mailto:jakub@bblk.pl)
 
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
   <p>I'm <a href="https://bblk.pl/">Jakub Bąbelek</a>, student and a Full Stack Developer from Poland.</p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=jakoboo.jakoboo" align="center" />
   <br />
