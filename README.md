@@ -18,7 +18,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakoboo&hide_title=true&hide_border=true&exclude_repo=jakoboo.github.io" align="center">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jakoboo" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jakoboo&text_color=565656&bg_color=ffffff&hide_title=true&hide_border=true" align="center">
   </a>
   <br>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=11131620181&redirect=true">
