@@ -20,8 +20,4 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jakoboo&text_color=565656&bg_color=ffffff&hide_title=true&hide_border=true" align="center">
   </a>
-  <br>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=11131620181&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11131620181&cover_image=false">
-  </a>
 </div>
