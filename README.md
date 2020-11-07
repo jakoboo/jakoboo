@@ -1,8 +1,7 @@
-<a href="https://bblk.pl/"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"></a>
-
 ### <div align="center">I'm <a href="https://bblk.pl/">Jakub Bąbelek</a>, student and a Full Stack Developer from Poland.</div>
 
 <div align="center">
+  <p><a href="https://bblk.pl/">Website</a> • <a href="https://twitter.com/jbbabelek">Twitter</a> • <a href="mailto:jakub@bblk.pl">E-Mail</a></p>
   <b>Some facts:</b>
   <p>🚀 Physics major • 🎶 Love music • Spaces over tabs 🤷‍♂️</p>
 </div>
